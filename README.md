@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 #### I'm usually doing one of these three things:
 
 💻  Getting my BSc in Computer Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)   
-⚡  Learning and sharing at [ShARE-UP](https://share-up.pt/)   
+⚡   Learning and sharing at [ShARE-UP](https://share-up.pt/)   
 😄  Having a beer with my friends
 
+#### Currently working on:
 
+👯 My online [resume](https://miguelazevedolopes.github.io/) using Three.js 
 
 
 
