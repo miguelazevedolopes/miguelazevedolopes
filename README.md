@@ -21,12 +21,14 @@ Here are some ideas to get you started:
 ⚡   Learning and sharing at [ShARE-UP](https://share-up.pt/)   
 😄  Having a beer with my friends
 
+
+<!--
 #### Currently working on:
 
 👯 My online [resume](https://miguelazevedolopes.github.io/) using Three.js 
 
 
-
+-->
 
 
 
