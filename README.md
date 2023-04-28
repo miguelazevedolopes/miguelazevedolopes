@@ -13,18 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### My name is Miguel, I'm 23 years old and I'm from Porto.
-
-#### I'm usually doing one of these two things:
-
-💻  Getting my Masters in Computer Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)   
-😄  Having a beer with my friends
-
-
-<!--
-#### Currently working on:
-
-👯 My online [resume](https://miguelazevedolopes.github.io/) using Three.js 
+#### My name is Miguel, I'm 23 years old and I'm from Porto. Currently getting my MSc in Informatics and Computing Engineering at FEUP.
 
 
 -->
