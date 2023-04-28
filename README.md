@@ -16,8 +16,5 @@ Here are some ideas to get you started:
 #### My name is Miguel, I'm 23 years old and I'm from Porto. Currently getting my MSc in Informatics and Computing Engineering at FEUP.
 
 
--->
-
-
 
 
